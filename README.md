@@ -12,6 +12,8 @@
 <li>Otros: Git, GitHub, WordPress, Bootstrap, TailwindCSS</li>
 </ul>
 
+<p> Siempre estoy en busca de nuevos retos, aprendiendo de cada línea de código y de cada proyecto. Actualmente, profundizo en áreas como diseño de interfaces, accesibilidad, y desarrollo full stack.</p>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
